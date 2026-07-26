@@ -14,7 +14,7 @@ if(2>5){
 }
 else{
     console.log("this will print ")
-    if(false){
+    if(true){
         console.log("will it print?")
     }
 }
