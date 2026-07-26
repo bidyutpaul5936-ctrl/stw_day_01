@@ -7,6 +7,11 @@ let a=typeof name
 console.log(a)
 console.log(typeof a)
 let b=[1,2,3,4]
+
+let a=typeof name
+console.log(a)
+console.log(typeof a)
+let b=[1,2,3,6,7]
 console.log(b)
 alert("Hello")
 //new comment
