@@ -2,6 +2,7 @@ console.log("Hello world");
 console.log(32)
 console.log("hello world"+32)
 console.log("yo")
+console.log("hello")
 let name=70
 let a=typeof name
 console.log(a)
