@@ -9,3 +9,12 @@ console.log(typeof a)
 let b=[1,2,3]
 console.log(b)
 alert("Hello")
+if(2>5){
+    console.log("mathematics is wrong")
+}
+else{
+    console.log("this will print ")
+    if(false){
+        console.log("will it print?")
+    }
+}
