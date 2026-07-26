@@ -9,6 +9,7 @@ console.log(typeof a)
 let b=[1,2,3,4]
 console.log(b)
 alert("Hello")
+//new comment
 if(2>5){
     console.log("mathematics is wrong")
 }
